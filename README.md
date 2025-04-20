@@ -43,17 +43,17 @@ It demonstrates how to serve multiple clients concurrently using threading, whic
    git clone https://github.com/21lakshh/Multi-threaded-Web-Server.git
    cd Multi-threaded-Web-Server
    ```
-2. **Run the server:**:
+2. **Run the server**:
 
    ```bash
    python web_server.py
    ```
-3. **Open your browser and visit:**:
+3. **Open your browser and visit**:
 
    ```bash
    http://<your-local-ip>:8080
    ```
-4. **Sample Output:**:
+4. **Sample Output**:
 
    ```bash
     Server listening on http://192.168.x.x:8080
