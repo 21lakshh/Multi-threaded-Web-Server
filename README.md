@@ -10,7 +10,8 @@ It demonstrates how to serve multiple clients concurrently using threading, whic
 
 - **Multithreading**: Handling multiple client requests simultaneously using threads.
 - **Thread Pooling**: Efficiently managing threads using a thread pool.
-- **Socket Programming**: Managing low-level network communication between server and client.
+- **Socket Programming**: Managing low-level network communication between server and client.  
+  ➤ A **socket** is like a communication endpoint for sending and receiving data between computers over a network (like the internet or your local network).
 - **Basic HTTP Protocol**: Serving static content in response to HTTP requests.
 
 ---
